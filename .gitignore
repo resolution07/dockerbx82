@@ -1,0 +1,6 @@
+/.idea
+/app
+!/app/bitrixsetup.php
+!/app/restore.php
+*.log
+.env
